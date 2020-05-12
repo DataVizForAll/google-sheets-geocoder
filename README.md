@@ -1,5 +1,6 @@
 # Google Sheets Geocoder
-Geocode addresses into latitude/longitude coordinates inside Google Sheets, with US Census or Google Apps service
+Geocode addresses into latitude/longitude coordinates inside Google Sheets,
+with US Census or Google Apps service.
 
 ## Demo Geocoder US Census or Google
 - Geocode locations into latitude, longitude, with source and match quality, inside a Google Sheet
@@ -42,15 +43,15 @@ https://docs.google.com/spreadsheets/d/1x_E9KwZ88c_kZvhZ13IF7BNwYKTJFxbfDu77sU1v
   - Find Geographies using > Address Batch (returns lat, lng, census geographies)
 - Upload CSV table with up to 1000 rows for faster processing, in this format:
 
-| AnyID  | Street | City | State | Zip   |
-| :----- | :----- | :--- | :---- | : --- |
-| 1      | 300 Summit St  | Hartford | CT | 06106 |
+| AnyID  | Street | City | State | Zip |
+|:----- |:----- |:--- |:---- |:--- |
+| 1     | 300 Summit St  | Hartford | CT | 06106 |
 
 ## Learn more
-- Data Visualization for All book, see Transform Your Data chapter, http://DataVizForAll.org
+- **Hands-On Data Visualization** book, see *Transform Your Data* chapter, https://HandsOnDataViz.org/
 
 ## Credits
-- Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Trinity College CT, for [Data Visualization For All](https://www.datavizforall.org/)
+- Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Trinity College CT, for [Hands-On Data Visualization](https://HandsOnDataViz.org/)
 - Inspired by Google Sheets Geocoding Macro (2016) https://github.com/nuket/google-sheets-geocoding-macro (no license)
 - Geocoding services:
   - US Census Geocoder https://geocoding.geo.census.gov/geocoder/
