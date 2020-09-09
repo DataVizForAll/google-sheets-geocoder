@@ -2,6 +2,14 @@
 Geocode addresses into latitude/longitude coordinates inside Google Sheets,
 with US Census or Google Apps service.
 
+## UPDATE
+To geocode multiple addresses inside your spreadsheet, we now recommend that beginniners install a free Google Sheets Add-on called [Geocoding by SmartMonkey](https://gsuite.google.com/marketplace/app/geocoding_by_smartmonkey/1033231575312), instead of the Google Apps Geocoder script below.
+
+See geocoding instructions in *Hands-On Data Visualization* chapter 2: https://handsondataviz.org/geocode.html
+
+
+
+
 ## Demo Geocoder US Census or Google
 - Geocode locations into latitude, longitude, with source and match quality, inside a Google Sheet
 - Go to Google Sheet template, sign in to your account, and File > Make a Copy to your Google Drive https://docs.google.com/spreadsheets/d/1XvtkzuVyQ_7Ud47ypDJ4KOmz_5lOpC9sqeEDBbJ5Pbg/edit#gid=0
