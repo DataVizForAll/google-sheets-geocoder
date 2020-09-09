@@ -7,7 +7,7 @@ To geocode multiple addresses inside your spreadsheet, we now recommend that beg
 
 See geocoding instructions in *Hands-On Data Visualization* chapter 2: https://handsondataviz.org/geocode.html
 
-
+![Geocoding by SmartMonkey screenshot](geocode-details.png)
 
 
 ## Demo Geocoder US Census or Google
